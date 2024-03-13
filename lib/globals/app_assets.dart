@@ -9,7 +9,7 @@ class AppAssets {
   static String code = 'images/coding.png';
   static String brush = 'images/brush-stroke.png';
   static String analyst = 'images/analytics.png';
-  static String project1 = 'imagesrcampaign-creators-yktK2qaiVHI-unsplash.jpg';
+  static String project1 = 'images/campaign-creators-yktK2qaiVHI-unsplash.jpg';
   static String project2 = 'images/scott-graham-5fNmWej4tAA-unsplash.jpg';
 
   static String share = 'images/share.png';

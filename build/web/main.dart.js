@@ -66778,7 +66778,7 @@ ae(){var s,r=new A.aR(new Float64Array(16))
 r.dm()
 r.ap(1)
 s=t.s
-return new A.KK(r,A.a(["imagesrcampaign-creators-yktK2qaiVHI-unsplash.jpg","images/scott-graham-5fNmWej4tAA-unsplash.jpg"],s),A.a(["Market Entry Strategy:","Strategic Partnerships:"],s),A.a(["Market launch of sports equipment enterprise. Research for trends, competitors and an associated pricing.Use cricket insights.","Description: Secure brand-buliding partnerships for sport entity. Research, hold negotiations, and sustain collaborations."],s),B.k)}}
+return new A.KK(r,A.a(["images/campaign-creators-yktK2qaiVHI-unsplash.jpg","images/scott-graham-5fNmWej4tAA-unsplash.jpg"],s),A.a(["Market Entry Strategy:","Strategic Partnerships:"],s),A.a(["Market launch of sports equipment enterprise. Research for trends, competitors and an associated pricing.Use cricket insights.","Description: Secure brand-buliding partnerships for sport entity. Research, hold negotiations, and sustain collaborations."],s),B.k)}}
 A.KK.prototype={
 K(a){var s=this,r=null,q=A.bY(a,r,t.w).w,p=t.E
 return new A.ly(A.eX(A.a([s.yI(),A.bb(r,40,r),s.yH(1)],p),B.a6,B.a1,B.bk),A.eX(A.a([s.yI(),A.bb(r,40,r),s.yH(2)],p),B.a6,B.a1,B.bk),A.eX(A.a([s.yI(),A.bb(r,40,r),s.yH(2)],p),B.a6,B.a1,B.bk),q.a.a*0.1,B.i,r)},
